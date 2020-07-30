@@ -1,0 +1,23 @@
+{
+  "name": "zcl-first-npm-package",
+  "version": "1.0.0",
+  "description": "My first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChengLin-Zhou/zcl-first-npm-package.git"
+  },
+  "keywords": [
+    "first",
+    "package"
+  ],
+  "author": "zhouchenglin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChengLin-Zhou/zcl-first-npm-package/issues"
+  },
+  "homepage": "https://github.com/ChengLin-Zhou/zcl-first-npm-package#readme"
+}
